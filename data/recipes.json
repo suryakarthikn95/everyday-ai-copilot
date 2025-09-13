@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Spinach Fried Rice",
+    "ingredients": ["rice", "spinach", "onion", "garlic", "soy sauce", "oil", "salt", "pepper"],
+    "time_min": 20,
+    "tags": ["quick", "veggie", "one-pan"],
+    "steps": ["Cook rice (or use leftover).", "Sauté onion & garlic.", "Add spinach until wilted.", "Stir in rice, soy sauce, pepper."]
+  },
+  {
+    "title": "Tomato Basil Pasta",
+    "ingredients": ["pasta", "tomato", "garlic", "olive oil", "basil", "salt", "pepper"],
+    "time_min": 18,
+    "tags": ["italian", "quick"],
+    "steps": ["Boil pasta.", "Sauté garlic in oil.", "Add chopped tomato, simmer.", "Toss with pasta, basil."]
+  },
+  {
+    "title": "Chana Masala (Chickpea Curry)",
+    "ingredients": ["chickpeas", "onion", "tomato", "garlic", "ginger", "garam masala", "cumin", "turmeric", "chili", "oil", "salt"],
+    "time_min": 30,
+    "tags": ["indian", "protein"],
+    "steps": ["Sauté onion, ginger, garlic.", "Add spices.", "Add tomato then chickpeas.", "Simmer 10–15 min."]
+  },
+  {
+    "title": "Veggie Omelet (No Egg? Use Besan Chilla)",
+    "ingredients": ["egg", "onion", "tomato", "spinach", "salt", "pepper", "oil"],
+    "time_min": 10,
+    "tags": ["breakfast", "quick"],
+    "steps": ["Beat eggs (or besan + water).", "Fold in chopped veg.", "Cook on pan till set."]
+  },
+  {
+    "title": "Stir-Fry Tofu & Veg",
+    "ingredients": ["tofu", "bell pepper", "broccoli", "soy sauce", "garlic", "ginger", "oil", "salt", "pepper"],
+    "time_min": 15,
+    "tags": ["high-protein", "one-pan"],
+    "steps": ["Sear tofu.", "Stir-fry veg.", "Add sauce & toss."]
+  },
+  {
+    "title": "Aloo Jeera",
+    "ingredients": ["potato", "cumin", "turmeric", "chili", "oil", "salt", "coriander"],
+    "time_min": 20,
+    "tags": ["indian", "comfort"],
+    "steps": ["Boil or cube potatoes.", "Temper cumin.", "Add spices & potatoes; toss."]
+  },
+  {
+    "title": "Greek Yogurt Cucumber Salad",
+    "ingredients": ["yogurt", "cucumber", "garlic", "olive oil", "lemon", "salt", "pepper", "dill"],
+    "time_min": 8,
+    "tags": ["salad", "no-cook"],
+    "steps": ["Mix yogurt, garlic, lemon.", "Fold in cucumber, dill."]
+  },
+  {
+    "title": "Peanut Noodles",
+    "ingredients": ["noodles", "peanut butter", "soy sauce", "vinegar", "chili", "garlic", "spring onion"],
+    "time_min": 15,
+    "tags": ["asian", "quick"],
+    "steps": ["Cook noodles.", "Whisk sauce.", "Toss & garnish."]
+  },
+  {
+    "title": "Caprese Sandwich",
+    "ingredients": ["bread", "tomato", "mozzarella", "basil", "olive oil", "salt", "pepper"],
+    "time_min": 7,
+    "tags": ["snack", "veg"],
+    "steps": ["Layer tomato & mozzarella.", "Add basil, oil, season."]
+  },
+  {
+    "title": "Lentil Soup",
+    "ingredients": ["red lentils", "onion", "carrot", "celery", "garlic", "tomato", "cumin", "oil", "salt", "pepper"],
+    "time_min": 25,
+    "tags": ["soup", "protein"],
+    "steps": ["Sauté aromatics.", "Add lentils & tomato.", "Simmer till tender."]
+  }
+]
